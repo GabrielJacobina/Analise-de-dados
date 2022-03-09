@@ -1,5 +1,5 @@
 # Análise de dados
-Projeto contruido para ler arquivos .dat, fazer a análise dos dados e escrever o resultado em outro arquivo .dat.
+Projeto construído para ler arquivos .dat, fazer a análise dos dados e escrever o resultado em outro arquivo .dat.
 
 ### Para rodar o projeto
 1- Clone o projeto em sua máquina.
